@@ -1,3 +1,5 @@
 # Unresized source images are huge. Don't push them to github, which has a 1GB
 # repo size limit.
 src-images
+
+.DS_Store
